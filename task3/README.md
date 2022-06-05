@@ -4,4 +4,4 @@
 
 ---
 
-![yemek tarifi](/img/yemek-tarifi.html.png)
+![yemek tarifi](/img/yemek-tarifi-html.png)
