@@ -4,7 +4,6 @@
 
 ---
 
-<<<<<<< HEAD:html-tasks/task3/README.md
 ![yemek tarifi](/html-tasks/task3/img/yemek-tarifi-html.png)
 =======
 ![yemek tarifi](/task3/img/yemek-tarifi-html.png)
